@@ -1,5 +1,5 @@
 # HR_Attrition_Workforce_Analytics
-It consists of data source file (.csv), tableau packaged workbook (.twbx), insight file (.docx), images of worksheets (.png) and a readme.md file
+It consists of data source file (Human_Resources.csv), tableau packaged workbook (Tarmin_Tableau_Project.twbx), insight file (HR Attrition Insights.docx), images of worksheets (.png) and a readme.md file
 
 ## Professional Summary
 
