@@ -59,6 +59,7 @@ Together, these visuals support analysis of compensation equity, workforce risk 
 - **Workforce planning:** Departmental headcount and tenure patterns highlight where attrition trends are concentrated, helping leadership prioritize where retention efforts will have the greatest effect.
 - **Decision-ready reporting:** The interactive Tableau dashboard allows stakeholders to explore the underlying data directly, reducing reliance on static reports for ongoing HR decision-making.
 
-## Author
+## 👤 Author
 
-Prepared as part of a professional data analytics portfolio demonstrating business-focused analytics, data visualization, and insight communication.
+**Tarmin**  
+Aspiring Data Analyst with hands-on experience in Excel, SQL, Python, PowerBI, Tableau and AI/ML. This repository showcases real-world projects built to solve practical data problems.
